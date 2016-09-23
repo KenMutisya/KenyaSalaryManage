@@ -1,0 +1,6 @@
+{
+  "name": "Kenyasalarymanage",
+  "tagline": "With this package, you will be able to automatically calculate the NHIF, NSSF and PAYE rates of your salary or that of yor employees at any given time.",
+  "body": "###Salary Manage\r\nSalaryManage provides developers with a tireless way to calculate the NSSF, NHIF and PAYE contributions of their employees. With this in place, one will be able to get the total contribution due for deduction.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
