@@ -3,11 +3,10 @@
  * Created by IntelliJ IDEA.
  * User: mutisya
  * Date: 22/09/2016
- * Time: 11:32 PM
+ * Time: 11:32 PM.
  */
 
 namespace SalaryManager\nssf;
-
 
 class nssf
 {
@@ -22,17 +21,12 @@ class nssf
     const LEL = 6000;
     const RATE = 0.12;
 
-
     public function rates($salary)
     {
         if ($salary <= self::LEL) {
             return $salary * self::RATE;
-
         }
 
-
         return $salary * self::RATE;
-
-
     }
 }
